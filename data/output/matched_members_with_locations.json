@@ -1,0 +1,675 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-17T17:45:39.070066",
+    "source_member_summary": "member_summary_20251217_133832.json",
+    "source_corrected_semantic": "semantic_summary_CORRECTED.json",
+    "source_validation_report": null,
+    "total_matched_members": 15,
+    "include_partial_matches": true
+  },
+  "members": [
+    {
+      "id": "3X6X10",
+      "raw_text": "3 X6X10",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            8517,
+            4654,
+            8649,
+            4698
+          ]
+        }
+      ],
+      "variants": [
+        "3%x6x10"
+      ],
+      "geometry_ids": [],
+      "member_type": "OTHER"
+    },
+    {
+      "id": "C8S",
+      "raw_text": "C8 S",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            4344,
+            4875,
+            4418,
+            4907
+          ]
+        }
+      ],
+      "variants": [
+        "C8\u2019S"
+      ],
+      "geometry_ids": [],
+      "member_type": "CHANNEL"
+    },
+    {
+      "id": "L4",
+      "raw_text": "L4",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            1137,
+            3257,
+            1177,
+            3292
+          ]
+        }
+      ],
+      "variants": [
+        "L4"
+      ],
+      "geometry_ids": [],
+      "member_type": "ANGLE"
+    },
+    {
+      "id": "S227",
+      "raw_text": "S227",
+      "occurrences": 3,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            3837,
+            1054,
+            3951,
+            1109
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2325,
+            4192,
+            2394,
+            4239
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5208,
+            4189,
+            5276,
+            4237
+          ]
+        }
+      ],
+      "variants": [
+        "(27)",
+        "S227"
+      ],
+      "geometry_ids": [],
+      "member_type": "OTHER"
+    },
+    {
+      "id": "W10X17",
+      "raw_text": "W10X17",
+      "occurrences": 9,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            3652,
+            1363,
+            3780,
+            1395
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4241,
+            1467,
+            4370,
+            1499
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            1531,
+            3762,
+            1563
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            1861,
+            3762,
+            1893
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1391,
+            2352,
+            1519,
+            2384
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            2354,
+            3762,
+            2386
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            2861,
+            3762,
+            2894
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            3214,
+            3762,
+            3246
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3622,
+            4195,
+            3750,
+            4227
+          ]
+        }
+      ],
+      "variants": [
+        "W10x17"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W10X26",
+      "raw_text": "W10X26",
+      "occurrences": 4,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            1392,
+            1103,
+            1539,
+            1173
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3545,
+            2028,
+            3612,
+            2061
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4422,
+            2070,
+            4490,
+            2103
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4201,
+            2400,
+            4268,
+            2433
+          ]
+        }
+      ],
+      "variants": [
+        "W10",
+        "W10x26"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W12X14",
+      "raw_text": "W12X14",
+      "occurrences": 4,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            1554,
+            2675,
+            1683,
+            2708
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1451,
+            3802,
+            1576,
+            3872
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1508,
+            4538,
+            1655,
+            4608
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5767,
+            4537,
+            5896,
+            4608
+          ]
+        }
+      ],
+      "variants": [
+        "W12x14"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W12X26",
+      "raw_text": "W12X26",
+      "occurrences": 4,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            6535,
+            1399,
+            6664,
+            1432
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6535,
+            2133,
+            6664,
+            2165
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5745,
+            4727,
+            5874,
+            4760
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            827,
+            4656,
+            956,
+            4688
+          ]
+        }
+      ],
+      "variants": [
+        "W12x22",
+        "W12x26"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W14X22",
+      "raw_text": "W14X22",
+      "occurrences": 9,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5431,
+            1531,
+            5559,
+            1563
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4565,
+            2355,
+            4694,
+            2387
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5524,
+            2415,
+            5653,
+            2447
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6487,
+            2581,
+            6616,
+            2613
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6486,
+            3166,
+            6614,
+            3199
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1530,
+            4471,
+            1659,
+            4504
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3442,
+            4625,
+            3570,
+            4657
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4911,
+            4727,
+            5039,
+            4760
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            7076,
+            5294,
+            7123,
+            5341
+          ]
+        }
+      ],
+      "variants": [
+        "14,",
+        "W14x26",
+        "W14x22"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W16X26",
+      "raw_text": "W16X26",
+      "occurrences": 9,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            4509,
+            915,
+            4645,
+            964
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2346,
+            1188,
+            2475,
+            1220
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            1513,
+            2610,
+            1599
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1252,
+            2017,
+            1384,
+            2049
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            2203,
+            2610,
+            2235
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4565,
+            2200,
+            4694,
+            2233
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5702,
+            2203,
+            5831,
+            2236
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            2417,
+            2610,
+            2449
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3613,
+            2396,
+            3762,
+            2463
+          ]
+        }
+      ],
+      "variants": [
+        "W16x26"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W18X35",
+      "raw_text": "W18X35",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            2353,
+            2610,
+            2385
+          ]
+        }
+      ],
+      "variants": [
+        "W18x35"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W20XW20",
+      "raw_text": "W2 0XW2 0",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            7718,
+            4073,
+            7894,
+            4106
+          ]
+        }
+      ],
+      "variants": [
+        "W2.0xW2.0"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W21X44",
+      "raw_text": "W21X44",
+      "occurrences": 2,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5054,
+            2861,
+            5183,
+            2894
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2171,
+            4197,
+            2301,
+            4229
+          ]
+        }
+      ],
+      "variants": [
+        "W21x44"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W21X55",
+      "raw_text": "W21X55",
+      "occurrences": 3,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            2171,
+            3149,
+            2300,
+            3181
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5054,
+            3214,
+            5182,
+            3246
+          ]
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2174,
+            3362,
+            2303,
+            3394
+          ]
+        }
+      ],
+      "variants": [
+        "W21x50",
+        "W21x55"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W8X10",
+      "raw_text": "W8X10",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            6521,
+            4622,
+            6628,
+            4654
+          ]
+        }
+      ],
+      "variants": [
+        "W8x10"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    }
+  ]
+}

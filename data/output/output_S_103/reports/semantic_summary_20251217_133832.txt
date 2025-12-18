@@ -1,0 +1,168 @@
+================================================================================
+SEMANTIC STEEL DETAILING ANALYSIS
+================================================================================
+
+GEOMETRY CLASSIFICATION
+--------------------------------------------------------------------------------
+Total Objects: 18159
+Structural Objects: 18139
+Non-Structural Filtered: 20
+
+MEMBER SUMMARY
+--------------------------------------------------------------------------------
+Total Unique Members: 24
+Structural Members: 24
+
+Members by Type:
+  CHANNEL: 4
+  WIDE_FLANGE: 11
+  OTHER: 5
+  HSS_TUBE: 2
+  ANGLE: 2
+
+DETAILED MEMBER LIST
+--------------------------------------------------------------------------------
+
+W16X26:
+  Type: WIDE_FLANGE
+  Occurrences: 9
+  Linked Geometry: 0 objects
+  Variants: W16x26
+
+W10X17:
+  Type: WIDE_FLANGE
+  Occurrences: 9
+  Linked Geometry: 0 objects
+  Variants: W10x17
+
+W14X22:
+  Type: WIDE_FLANGE
+  Occurrences: 9
+  Linked Geometry: 0 objects
+  Variants: 14,, W14x26, W14x22
+
+C8X115:
+  Type: CHANNEL
+  Occurrences: 8
+  Linked Geometry: 0 objects
+  Variants: x, C8x11.5
+
+C6X82:
+  Type: CHANNEL
+  Occurrences: 5
+  Linked Geometry: 0 objects
+  Variants: C6x8.2
+
+W10X26:
+  Type: WIDE_FLANGE
+  Occurrences: 4
+  Linked Geometry: 0 objects
+  Variants: W10, W10x26
+
+W12X26:
+  Type: WIDE_FLANGE
+  Occurrences: 4
+  Linked Geometry: 0 objects
+  Variants: W12x22, W12x26
+
+W12X14:
+  Type: WIDE_FLANGE
+  Occurrences: 4
+  Linked Geometry: 0 objects
+  Variants: W12x14
+
+S227:
+  Type: OTHER
+  Occurrences: 3
+  Linked Geometry: 0 objects
+  Variants: (27), S227
+
+HSS6X6X:
+  Type: HSS_TUBE
+  Occurrences: 3
+  Linked Geometry: 0 objects
+  Variants: 6x6—, HSS6x6x%
+
+W21X55:
+  Type: WIDE_FLANGE
+  Occurrences: 3
+  Linked Geometry: 0 objects
+  Variants: W21x50, W21x55
+
+C10X153:
+  Type: CHANNEL
+  Occurrences: 2
+  Linked Geometry: 0 objects
+  Variants: C10x15.3, 15
+
+W21X44:
+  Type: WIDE_FLANGE
+  Occurrences: 2
+  Linked Geometry: 0 objects
+  Variants: W21x44
+
+HSS4X4X:
+  Type: HSS_TUBE
+  Occurrences: 2
+  Linked Geometry: 0 objects
+  Variants: HSS4x4, —HSS4x4x%
+
+L3X3X:
+  Type: ANGLE
+  Occurrences: 2
+  Linked Geometry: 0 objects
+  Variants: L3x3x%
+
+WIOXT7:
+  Type: OTHER
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: Wioxt7
+
+W18X35:
+  Type: WIDE_FLANGE
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: W18x35
+
+12X207:
+  Type: OTHER
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: 12x20.7
+
+WI0X12:
+  Type: OTHER
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: Wi0x12
+
+L4:
+  Type: ANGLE
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: L4
+
+W20XW20:
+  Type: WIDE_FLANGE
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: W2.0xW2.0
+
+W8X10:
+  Type: WIDE_FLANGE
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: W8x10
+
+3X6X10:
+  Type: OTHER
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: 3%x6x10
+
+C8S:
+  Type: CHANNEL
+  Occurrences: 1
+  Linked Geometry: 0 objects
+  Variants: C8’S

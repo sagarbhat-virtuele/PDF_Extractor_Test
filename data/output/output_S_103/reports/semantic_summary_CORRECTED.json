@@ -1,0 +1,227 @@
+{
+  "W16X26": {
+    "id": "W16X26",
+    "type": "WIDE_FLANGE",
+    "occurrences": 9,
+    "linked_geometry": 0,
+    "variants": [
+      "W16X26"
+    ]
+  },
+  "W10X17": {
+    "id": "W10X17",
+    "type": "WIDE_FLANGE",
+    "occurrences": 9,
+    "linked_geometry": 0,
+    "variants": [
+      "W10X17"
+    ]
+  },
+  "W14X22": {
+    "id": "W14X22",
+    "type": "WIDE_FLANGE",
+    "occurrences": 9,
+    "linked_geometry": 0,
+    "variants": [
+      "14..",
+      "W14X22",
+      "W14X26"
+    ]
+  },
+  "C8X11.5": {
+    "id": "C8X11.5",
+    "type": "CHANNEL",
+    "occurrences": 8,
+    "linked_geometry": 0,
+    "variants": [
+      "C8X11.5",
+      "X"
+    ]
+  },
+  "C6X8.2": {
+    "id": "C6X8.2",
+    "type": "CHANNEL",
+    "occurrences": 5,
+    "linked_geometry": 0,
+    "variants": [
+      "C6X8.2"
+    ]
+  },
+  "W10X26": {
+    "id": "W10X26",
+    "type": "WIDE_FLANGE",
+    "occurrences": 4,
+    "linked_geometry": 0,
+    "variants": [
+      "W10",
+      "W10X26"
+    ]
+  },
+  "W12X26": {
+    "id": "W12X26",
+    "type": "WIDE_FLANGE",
+    "occurrences": 4,
+    "linked_geometry": 0,
+    "variants": [
+      "W12X22",
+      "W12X26"
+    ]
+  },
+  "W12X14": {
+    "id": "W12X14",
+    "type": "WIDE_FLANGE",
+    "occurrences": 4,
+    "linked_geometry": 0,
+    "variants": [
+      "W12X14"
+    ]
+  },
+  "S227": {
+    "id": "S227",
+    "type": "OTHER",
+    "occurrences": 3,
+    "linked_geometry": 0,
+    "variants": [
+      "27",
+      "S227"
+    ]
+  },
+  "HSS6X6": {
+    "id": "HSS6X6",
+    "type": "HSS_TUBE",
+    "occurrences": 3,
+    "linked_geometry": 0,
+    "variants": [
+      "C6X6",
+      "HSS6X6"
+    ]
+  },
+  "W21X55": {
+    "id": "W21X55",
+    "type": "WIDE_FLANGE",
+    "occurrences": 3,
+    "linked_geometry": 0,
+    "variants": [
+      "W21X50",
+      "W21X55"
+    ]
+  },
+  "C10X15.3": {
+    "id": "C10X15.3",
+    "type": "CHANNEL",
+    "occurrences": 2,
+    "linked_geometry": 0,
+    "variants": [
+      "15",
+      "C10X15.3"
+    ]
+  },
+  "W21X44": {
+    "id": "W21X44",
+    "type": "WIDE_FLANGE",
+    "occurrences": 2,
+    "linked_geometry": 0,
+    "variants": [
+      "W21X44"
+    ]
+  },
+  "HSS4X4": {
+    "id": "HSS4X4",
+    "type": "HSS_TUBE",
+    "occurrences": 2,
+    "linked_geometry": 0,
+    "variants": [
+      "HSS4X4"
+    ]
+  },
+  "L3X3": {
+    "id": "L3X3",
+    "type": "ANGLE",
+    "occurrences": 2,
+    "linked_geometry": 0,
+    "variants": [
+      "L3X3"
+    ]
+  },
+  "W10XT7": {
+    "id": "W10XT7",
+    "type": "OTHER",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "W10XT7"
+    ]
+  },
+  "W18X35": {
+    "id": "W18X35",
+    "type": "WIDE_FLANGE",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "W18X35"
+    ]
+  },
+  "C12X207": {
+    "id": "C12X207",
+    "type": "OTHER",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "C12X20.7"
+    ]
+  },
+  "W10X12": {
+    "id": "W10X12",
+    "type": "OTHER",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "W10X12"
+    ]
+  },
+  "L4": {
+    "id": "L4",
+    "type": "ANGLE",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "L4"
+    ]
+  },
+  "W20XW20": {
+    "id": "W20XW20",
+    "type": "WIDE_FLANGE",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "W20X20"
+    ]
+  },
+  "W8X10": {
+    "id": "W8X10",
+    "type": "WIDE_FLANGE",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "W8X10"
+    ]
+  },
+  "3X6X10": {
+    "id": "3X6X10",
+    "type": "OTHER",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "3X6X10"
+    ]
+  },
+  "C8S": {
+    "id": "C8S",
+    "type": "CHANNEL",
+    "occurrences": 1,
+    "linked_geometry": 0,
+    "variants": [
+      "C8S"
+    ]
+  }
+}

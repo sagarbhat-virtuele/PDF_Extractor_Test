@@ -1,0 +1,1093 @@
+{
+  "summary": {
+    "total_unique_members": 24,
+    "members_by_type": {
+      "CHANNEL": 4,
+      "WIDE_FLANGE": 11,
+      "OTHER": 5,
+      "HSS_TUBE": 2,
+      "ANGLE": 2
+    },
+    "total_occurrences": 78
+  },
+  "members": [
+    {
+      "id": "C8X115",
+      "raw_text": "C8X11 5",
+      "occurrences": 8,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            3645,
+            612,
+            3780,
+            645
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1363,
+            3407,
+            1396,
+            3459
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1644,
+            3407,
+            1677,
+            3459
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            8444,
+            3887,
+            8460,
+            3910
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2241,
+            3930,
+            2257,
+            3953
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3703,
+            3928,
+            3719,
+            3951
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5123,
+            3928,
+            5139,
+            3951
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            7551,
+            4718,
+            7567,
+            4741
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "x",
+        "C8x11.5"
+      ],
+      "geometry_ids": [],
+      "member_type": "CHANNEL"
+    },
+    {
+      "id": "W16X26",
+      "raw_text": "W16X26",
+      "occurrences": 9,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            4509,
+            915,
+            4645,
+            964
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2346,
+            1188,
+            2475,
+            1220
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            1513,
+            2610,
+            1599
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1252,
+            2017,
+            1384,
+            2049
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            2203,
+            2610,
+            2235
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4565,
+            2200,
+            4694,
+            2233
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5702,
+            2203,
+            5831,
+            2236
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            2417,
+            2610,
+            2449
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3613,
+            2396,
+            3762,
+            2463
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W16x26"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "S227",
+      "raw_text": "S227",
+      "occurrences": 3,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            3837,
+            1054,
+            3951,
+            1109
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2325,
+            4192,
+            2394,
+            4239
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5208,
+            4189,
+            5276,
+            4237
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "(27)",
+        "S227"
+      ],
+      "geometry_ids": [],
+      "member_type": "OTHER"
+    },
+    {
+      "id": "W10X26",
+      "raw_text": "W10X26",
+      "occurrences": 4,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            1392,
+            1103,
+            1539,
+            1173
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3545,
+            2028,
+            3612,
+            2061
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4422,
+            2070,
+            4490,
+            2103
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4201,
+            2400,
+            4268,
+            2433
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W10",
+        "W10x26"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W10X17",
+      "raw_text": "W10X17",
+      "occurrences": 9,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            3652,
+            1363,
+            3780,
+            1395
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4241,
+            1467,
+            4370,
+            1499
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            1531,
+            3762,
+            1563
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            1861,
+            3762,
+            1893
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1391,
+            2352,
+            1519,
+            2384
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            2354,
+            3762,
+            2386
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            2861,
+            3762,
+            2894
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3634,
+            3214,
+            3762,
+            3246
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3622,
+            4195,
+            3750,
+            4227
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W10x17"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "C10X153",
+      "raw_text": "C10X15 3",
+      "occurrences": 2,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5037,
+            1374,
+            5187,
+            1458
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4224,
+            2122,
+            4262,
+            2155
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "C10x15.3",
+        "15"
+      ],
+      "geometry_ids": [],
+      "member_type": "CHANNEL"
+    },
+    {
+      "id": "W12X26",
+      "raw_text": "W12X26",
+      "occurrences": 4,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            6535,
+            1399,
+            6664,
+            1432
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6535,
+            2133,
+            6664,
+            2165
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5745,
+            4727,
+            5874,
+            4760
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            827,
+            4656,
+            956,
+            4688
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W12x22",
+        "W12x26"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W14X22",
+      "raw_text": "W14X22",
+      "occurrences": 9,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5431,
+            1531,
+            5559,
+            1563
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4565,
+            2355,
+            4694,
+            2387
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5524,
+            2415,
+            5653,
+            2447
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6487,
+            2581,
+            6616,
+            2613
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6486,
+            3166,
+            6614,
+            3199
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1530,
+            4471,
+            1659,
+            4504
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            3442,
+            4625,
+            3570,
+            4657
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4911,
+            4727,
+            5039,
+            4760
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            7076,
+            5294,
+            7123,
+            5341
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "14,",
+        "W14x26",
+        "W14x22"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "WIOXT7",
+      "raw_text": "WIOXT7",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            2291,
+            1633,
+            2420,
+            1666
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "Wioxt7"
+      ],
+      "geometry_ids": [],
+      "member_type": "OTHER"
+    },
+    {
+      "id": "C6X82",
+      "raw_text": "C6X8 2",
+      "occurrences": 5,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            6532,
+            1611,
+            6646,
+            1643
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6488,
+            3024,
+            6602,
+            3056
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6495,
+            3874,
+            6608,
+            3906
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2963,
+            4850,
+            3077,
+            4883
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4979,
+            4850,
+            5092,
+            4883
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "C6x8.2"
+      ],
+      "geometry_ids": [],
+      "member_type": "CHANNEL"
+    },
+    {
+      "id": "W18X35",
+      "raw_text": "W18X35",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            2481,
+            2353,
+            2610,
+            2385
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W18x35"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "12X207",
+      "raw_text": "12X20 7",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5572,
+            2482,
+            5703,
+            2515
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "12x20.7"
+      ],
+      "geometry_ids": [],
+      "member_type": "OTHER"
+    },
+    {
+      "id": "WI0X12",
+      "raw_text": "WI0X12",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5653,
+            2549,
+            5781,
+            2581
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "Wi0x12"
+      ],
+      "geometry_ids": [],
+      "member_type": "OTHER"
+    },
+    {
+      "id": "W12X14",
+      "raw_text": "W12X14",
+      "occurrences": 4,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            1554,
+            2675,
+            1683,
+            2708
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1451,
+            3802,
+            1576,
+            3872
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            1508,
+            4538,
+            1655,
+            4608
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5767,
+            4537,
+            5896,
+            4608
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W12x14"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "HSS6X6X",
+      "raw_text": "HSS6X6X",
+      "occurrences": 3,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            6487,
+            2660,
+            6655,
+            2703
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            6487,
+            3260,
+            6655,
+            3298
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            7609,
+            4073,
+            7694,
+            4106
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "6x6\u2014",
+        "HSS6x6x%"
+      ],
+      "geometry_ids": [],
+      "member_type": "HSS_TUBE"
+    },
+    {
+      "id": "W21X44",
+      "raw_text": "W21X44",
+      "occurrences": 2,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5054,
+            2861,
+            5183,
+            2894
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2171,
+            4197,
+            2301,
+            4229
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W21x44"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W21X55",
+      "raw_text": "W21X55",
+      "occurrences": 3,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            2171,
+            3149,
+            2300,
+            3181
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            5054,
+            3214,
+            5182,
+            3246
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            2174,
+            3362,
+            2303,
+            3394
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W21x50",
+        "W21x55"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "L4",
+      "raw_text": "L4",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            1137,
+            3257,
+            1177,
+            3292
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "L4"
+      ],
+      "geometry_ids": [],
+      "member_type": "ANGLE"
+    },
+    {
+      "id": "HSS4X4X",
+      "raw_text": "HSS4X4X",
+      "occurrences": 2,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            5643,
+            3535,
+            5811,
+            3573
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4157,
+            4773,
+            4283,
+            4805
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "HSS4x4",
+        "\u2014HSS4x4x%"
+      ],
+      "geometry_ids": [],
+      "member_type": "HSS_TUBE"
+    },
+    {
+      "id": "W20XW20",
+      "raw_text": "W2 0XW2 0",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            7718,
+            4073,
+            7894,
+            4106
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W2.0xW2.0"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "W8X10",
+      "raw_text": "W8X10",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            6521,
+            4622,
+            6628,
+            4654
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "W8x10"
+      ],
+      "geometry_ids": [],
+      "member_type": "WIDE_FLANGE"
+    },
+    {
+      "id": "3X6X10",
+      "raw_text": "3 X6X10",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            8517,
+            4654,
+            8649,
+            4698
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "3%x6x10"
+      ],
+      "geometry_ids": [],
+      "member_type": "OTHER"
+    },
+    {
+      "id": "C8S",
+      "raw_text": "C8 S",
+      "occurrences": 1,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            4344,
+            4875,
+            4418,
+            4907
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "C8\u2019S"
+      ],
+      "geometry_ids": [],
+      "member_type": "CHANNEL"
+    },
+    {
+      "id": "L3X3X",
+      "raw_text": "L3X3X",
+      "occurrences": 2,
+      "locations": [
+        {
+          "page": 1,
+          "bbox": [
+            2963,
+            4900,
+            3088,
+            4944
+          ],
+          "source": "ocr"
+        },
+        {
+          "page": 1,
+          "bbox": [
+            4979,
+            4900,
+            5104,
+            4944
+          ],
+          "source": "ocr"
+        }
+      ],
+      "variants": [
+        "L3x3x%"
+      ],
+      "geometry_ids": [],
+      "member_type": "ANGLE"
+    }
+  ]
+}
